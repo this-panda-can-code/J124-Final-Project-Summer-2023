@@ -73,7 +73,7 @@
 <img src="question 5-1.png"> 
 </br>
 <img src="question 3-2.png">
-<h6> To experience its immersive version, click <a href="https://www.datawrapper.de/_/quPsp/">here </a>.</h6>
+<h6> To experience its interacative version, click <a href="https://www.datawrapper.de/_/quPsp/">here </a>.</h6>
 </br>
 </br>
 
