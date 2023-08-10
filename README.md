@@ -7,5 +7,5 @@
 <p> This pitch aims to illustrate how the labor market in San Francisco and San Mateo Counties will look in 10 years, according to the State of California's occupational data and projections. This project aims to elucidate the direction of employment and what changes they can anticipate to better prepare for the future. This project also aims to remind people that some jobs will stay relevant and San Francisco and San Mateo can still procure decent salaries even if they don't have the time and capacity to earn a degree. </p>
 </br>  
 
-# Analyses
+### Analyses
 1. 
