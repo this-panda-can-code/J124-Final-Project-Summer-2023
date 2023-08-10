@@ -73,12 +73,21 @@
 <img src="question 5-1.png"> 
 </br>
 <img src="question 3-2.png">
+<h6> To experience its immersive version, click <a href="https://www.datawrapper.de/_/quPsp/">here </a>.</h6>
 </br>
 </br>
 
+
 ### Possible Interviewees and Additional Sources
-|                             | Name and Contact            | Why       |
-|-------------------------------------|------------------|---------------------- |
-| The Daily Californian               |Weekender Staffer     |   <ul><li> I contribute personal essays and nonfiction pieces for the publication's online magazine, The Weekender. <li> I research trends for possible content related to student life and popular culture. </ul>|
-| California Environmental Voters     |Digital Media Intern  |   <ul><li> I edit videos to produce digital content for initiatives in the non-profit. <li> I support the organization with data archival and storage of different organizational media. </ul>|
-| UC Berkeley - Public Service Center | Program Assistant     |  <ul><li> As the front-of-the-office personnel, I greet guests, attend to any inquiries, and book reservations for space use. <li> I assist the office with event organization, appointed with specific roles to ensure events will progress without any inconvenience.  |
+
+
+<img src="kline.jpg" height="250" width="250">
+<h4>Patrick Kline</h4> <i>pkline@berkeley.edu</i>
+<p>Professor Kline's research focuses on urban and labor economics and economic inequality. He is a great source to speak to because he has the knowledge within the innings of how salary is scaled and determined on different factors. His expertise could contribute to the story and elaborate why a wealthy county such as San Francisco and San Mateo have a lot of wealth and income disparity.</p><br>
+<img src="Larry-Jackson.png" height="250" width="250">
+<h4>Larry Jackson</h4><i>larryjackson@berkeley.edu</i>
+<p>Larry Jackson could provide valuable tips and advice on how student could reassess and pivot their career decision. I think a career counselor is a great source since they can provide tools on what people should do if they want to jump to a different occupation and pace students on the possible complexities depending on their stage in life. Though he is Cal affiliated, I think his expertise goes beyond college students.</p></br>
+<h4><a href="https://transparentcalifornia.com/salaries/san-mateo-county/">2011–2022 salaries for San Mateo County</a></h4></br>
+<p>This is a good data to follow up especially since it reflects data from 2011 to 2022. The reporter could make an analysis on rate of changes in salary from before, current, and in the future and see whether their salary is justified or not. Analyzing this could also reveal anomalies within wages, if any.</p> </br>
+<h4><a href="https://www.sfgate.com/local/article/san-francisco-most-expensive-city-in-america-16314661.php">Report shows San Franciscans on minimum wage need to work 4.9 jobs to make rent</a></h4></br>
+<p> This report could supplement the story because it already contextualized the situation of minimum wage workers in San Francisco. It is appalling to know that people have to work not only twice but almost five times harder just to make ends meet.</p>
