@@ -72,5 +72,5 @@
 </br>
 <img src="question 5-1.png"> 
 </br>
-<img src="question 3-1.png">
+<img src="question 3-2.png">
 </br>
