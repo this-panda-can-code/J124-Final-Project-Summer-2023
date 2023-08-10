@@ -10,4 +10,16 @@
 ### Analyses
 </BR>
 
-#### Before anything else, we need to clean our data.
+#### Before anything else, we need to clean our data. </br>
+1. Download the [Long-Term Occupational Employment Projections](https://catalog.data.gov/dataset/long-term-occupational-employment-projections) on the Data.gov website or click [here](/Long-Term_Occupational_Employment_Projections.csv).
+2. Upload the file on your Google Drive and open it.
+<img src="Cleaning_1.png">
+3. Right-click the sheet below and click "Duplicate".
+4. Once you have a copy of the original sheet, click <strong>Row 1</strong> to highlight all titles. Click "View" above your ribbons, and find "Freeze" so that titles will stay even if you scroll. Click it, and click the "1 Row" option.
+5. Next, click the corner cell adjacent to the first <strong>Row 1 </strong> and <strong>Column A</strong> to highlight every cell with values. Look for the "Filter" button, which looks like a funnel.
+6. Press the funnel icon on the right of <strong>B1</strong, which says "Area Name (County Names)". Unselect everything except "San Francisco-Redwood City-South San Francisco MD (San Francisco and San Mateo Counties)". </br>
+<img src="Cleaning_3.png"></br>
+<img src="Cleaning_4.png"></br></br>
+<img src="Cleaning_5.png"> </br>
+
+#### You're data is ready.
